@@ -13,11 +13,11 @@ author: Lydia Drumright
 
 # --- List of links in the navigation bar --- #
 
-navbar-links:
+#navbar-links:
 #  About Me: "aboutme"
-  Resources:
-    - University of Cambridge: "http://www.cam.ac.uk"
-  Author's home: "https://www.linkedin.com/in/lydia-drumright-5a527b73"
+#  Resources:
+#    - University of Cambridge: "http://www.cam.ac.uk"
+#  Author's home: "https://www.linkedin.com/in/lydia-drumright-5a527b73"
 
 # --- Logo --- #
 
@@ -40,7 +40,7 @@ navbar-links:
 social-network-links:
 #  email: "someone@example.com"
 #  facebook: deanattali
-  github: lydiadr
+#  github: lydiadr
   twitter: epi_lydia
 #  patreon: DeanAttali
 #  youtube: c/daattali
@@ -89,7 +89,7 @@ excerpt_length: 50
 #feed_show_tags: true
 
 # Add a search button to the navbar
-post_search: true
+# post_search: true
 
 # The keywords to associate with your website, for SEO purposes
 #keywords: "my,list,of,keywords"
