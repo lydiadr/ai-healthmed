@@ -1,6 +1,7 @@
 ---
-subtitle: "Resources"
 ---
+
+Here are some links to the practicals as well as further resources.
 
 ### Machine learning
 - [AI for Oceans](https://code.org/oceans)
@@ -15,3 +16,7 @@ subtitle: "Resources"
 - [WhiteZed](https://cartwrig.ht/apps/whitezed/)
 
 ### Further reading
+
+- Wikipedia:
+    - [Artifical intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence)
+    - [Compartmental models in epidemiology](https://en.wikipedia.org/wiki/Compartmental_models_in_epidemiology)
